@@ -1,2 +1,2 @@
 # IBM_DataScience_Capstone
-Capstone for the 10 month Applied Data Science program by IBM
+Capstone for the Applied Data Science professional certificate by IBM
